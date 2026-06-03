@@ -19,12 +19,12 @@ Play requires.
 
 ## ⚠️ Replace before publishing
 
-1. **Support email** — currently `support@halluna.app` (placeholder) across all
+1. **Support email** — currently `support@halluna.ai` (placeholder) across all
    pages. Find & replace with your real support inbox.
 2. **Download buttons** — the App Store / Google Play links in `index.html` point
    to `#`. Replace with your real store URLs once the app is live.
 3. **Domain** — in `STORE-LISTING.md`, replace `YOUR-DOMAIN` with your actual host.
-4. **Effective dates** — Privacy Policy and Terms use `June 2, 2026`. Update if needed.
+4. **Effective dates** — Privacy Policy and Terms use `May 15, 2026`. Update if needed.
 5. **App icon** — the header logo is a custom Halluna mark. Swap it for the final production icon if needed.
 
 > **Legal note:** The Privacy Policy and Terms are solid, store-ready drafts but are

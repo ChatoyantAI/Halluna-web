@@ -80,4 +80,4 @@ https://YOUR-DOMAIN/delete-account.html
 - D-U-N-S: 765260046
 - Legal representative: Renliting
 - Address: Room A5, 7/F, Astoria Building, No. 34 Ashley Road, Tsim Sha Tsui, KL, Hong Kong
-- Support email: support@halluna.app  (replace with your real address)
+- Support email: support@halluna.ai  (replace with your real address)
